@@ -1,11 +1,11 @@
 package ru.job4j;
 
 /**
-Package for calculate task.
+*Class Класс для арифметических вычислений
 
 @author Pavel Platov (platov_p@mail.ru)
 @version $ld$
-@since 0.1
+@since 04.04.2017
 */
 
 public class Calculate {
