@@ -12,4 +12,10 @@ public class Calculate {
     public static void main(String [] args) {
         System.out.println("Hello world.");
       }
+
+/**
+Greeting
+@param System.out.println output on display "Hello world."
+*/
+
 }
