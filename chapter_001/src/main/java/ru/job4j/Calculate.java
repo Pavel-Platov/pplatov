@@ -6,6 +6,7 @@ package ru.job4j;
 @author Pavel Platov (platov_p@mail.ru)
 @version $ld$
 @since 04.04.2017
+@param Hello world - method println output Hello world
 */
 
 public class Calculate {
@@ -13,9 +14,6 @@ public class Calculate {
         System.out.println("Hello world.");
       }
 
-/**
-Greeting
-@param System.out.println output on display "Hello world."
-*/
+
 
 }
