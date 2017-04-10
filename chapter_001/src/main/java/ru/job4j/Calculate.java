@@ -11,7 +11,8 @@ Class for greeting task.
 public class Calculate {
 
 /**
-@param Hello world - method println output Hello world
+* Hello world - method println output Hello world.
+* @param args - arguments.
 */
     public static void main(String [] args) {
         System.out.println("Hello world.");
