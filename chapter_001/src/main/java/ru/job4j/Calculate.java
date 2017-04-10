@@ -5,7 +5,7 @@ Class for greeting task.
 
 @author Pavel Platov (platov_p@mail.ru)
 @version $ld$
-@since 04.04.2017
+@since 0.1
 */
 
 public class Calculate {
