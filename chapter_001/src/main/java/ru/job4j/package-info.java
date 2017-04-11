@@ -1,6 +1,6 @@
 
 /**
-Package for greeting task.
+Package for calculate task.
 
 @author Pavel Platov (platov_p@mail.ru)
 @version $ld$

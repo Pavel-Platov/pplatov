@@ -1,7 +1,7 @@
 package ru.job4j;
 
 /**
-Class for greeting task.
+Class for calculate task.
 
 @author Pavel Platov (platov_p@mail.ru)
 @version $ld$
