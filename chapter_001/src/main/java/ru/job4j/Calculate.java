@@ -14,8 +14,8 @@ public class Calculate {
 * Hello world - method println output Hello world.
 * @param args - arguments.
 */
-    public static void main(String [] args) {
-        System.out.println("Hello world.");
+    public static void main(String[] args) {
+        System.out.print("Hello world");
       }
 
 
