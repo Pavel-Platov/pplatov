@@ -8,6 +8,14 @@ Class calculate.
 @since 0.1
 */
 
+/**
+@The <strong>add</strong> method performs the addition action 
+@The <strong>subtract</strong> method performs the subtraction action
+@The <strong>div</strong> method performs the action of division
+@The <strong>multiplå</strong> method performs the multiplication action
+*/
+
+
 public class Calculator {
 	private double result
 
